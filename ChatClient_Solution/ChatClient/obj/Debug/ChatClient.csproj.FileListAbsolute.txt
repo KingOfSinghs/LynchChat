@@ -1,0 +1,13 @@
+C:\ProgrammingStuff\C Sharp\CompSci2\ChatClient_Solution\ChatClient\bin\Debug\ChatClient.exe.config
+C:\ProgrammingStuff\C Sharp\CompSci2\ChatClient_Solution\ChatClient\bin\Debug\ChatClient.exe
+C:\ProgrammingStuff\C Sharp\CompSci2\ChatClient_Solution\ChatClient\bin\Debug\ChatClient.pdb
+C:\ProgrammingStuff\C Sharp\CompSci2\ChatClient_Solution\ChatClient\obj\Debug\ChatClient.csprojResolveAssemblyReference.cache
+C:\ProgrammingStuff\C Sharp\CompSci2\ChatClient_Solution\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\ProgrammingStuff\C Sharp\CompSci2\ChatClient_Solution\ChatClient\obj\Debug\ChatClient.exe
+C:\ProgrammingStuff\C Sharp\CompSci2\ChatClient_Solution\ChatClient\obj\Debug\ChatClient.pdb
+H:\CompSci_2\ChatClient_Solution\ChatClient\bin\Debug\ChatClient.exe.config
+H:\CompSci_2\ChatClient_Solution\ChatClient\obj\Debug\ChatClient.exe
+H:\CompSci_2\ChatClient_Solution\ChatClient\obj\Debug\ChatClient.pdb
+H:\CompSci_2\ChatClient_Solution\ChatClient\bin\Debug\ChatClient.exe
+H:\CompSci_2\ChatClient_Solution\ChatClient\bin\Debug\ChatClient.pdb
+H:\CompSci_2\ChatClient_Solution\ChatClient\obj\Debug\ChatClient.csprojResolveAssemblyReference.cache
