@@ -1,0 +1,13 @@
+C:\ProgrammingStuff\C Sharp\CompSci2\ChatServer_Solution\ChatServer\bin\Debug\ChatServer.exe.config
+C:\ProgrammingStuff\C Sharp\CompSci2\ChatServer_Solution\ChatServer\bin\Debug\ChatServer.exe
+C:\ProgrammingStuff\C Sharp\CompSci2\ChatServer_Solution\ChatServer\bin\Debug\ChatServer.pdb
+C:\ProgrammingStuff\C Sharp\CompSci2\ChatServer_Solution\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+C:\ProgrammingStuff\C Sharp\CompSci2\ChatServer_Solution\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\ProgrammingStuff\C Sharp\CompSci2\ChatServer_Solution\ChatServer\obj\Debug\ChatServer.exe
+C:\ProgrammingStuff\C Sharp\CompSci2\ChatServer_Solution\ChatServer\obj\Debug\ChatServer.pdb
+H:\CompSci_2\ChatServer_Solution\ChatServer\bin\Debug\ChatServer.exe.config
+H:\CompSci_2\ChatServer_Solution\ChatServer\obj\Debug\ChatServer.exe
+H:\CompSci_2\ChatServer_Solution\ChatServer\obj\Debug\ChatServer.pdb
+H:\CompSci_2\ChatServer_Solution\ChatServer\bin\Debug\ChatServer.exe
+H:\CompSci_2\ChatServer_Solution\ChatServer\bin\Debug\ChatServer.pdb
+H:\CompSci_2\ChatServer_Solution\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
